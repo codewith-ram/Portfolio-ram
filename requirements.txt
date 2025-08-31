@@ -1,0 +1,10 @@
+pymavlink>=2.4.37
+pyserial>=3.5
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+pyqt5>=5.15.0
+pyqtgraph>=0.13.3
+pyyaml>=6.0
+gps3>=0.33.3
+pytest>=7.3.1
